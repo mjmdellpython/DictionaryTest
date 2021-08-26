@@ -13,6 +13,7 @@ namespace DictionaryTest
 {
     public class Startup
     {
+        //startup configration
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
